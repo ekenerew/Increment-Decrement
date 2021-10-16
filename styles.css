@@ -1,0 +1,11 @@
+button {
+    color: white;
+    border-radius: 15px;
+    background-color: rgba(45, 7, 116, 0.596);
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
